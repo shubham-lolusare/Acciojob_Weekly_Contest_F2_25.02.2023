@@ -1,6 +1,7 @@
 # Acciojob_Weekly_Contest_F2_25.02.2023
 - The project is Editable Table.
 - Link to Figma design: https://www.figma.com/file/4Jb8hNK6uGbtuwdJ12XjIZ/Edtiable-Table?node-id=0%3A1&t=Ati2vzt9bqN0Sznb-1
+- Deployed Link: https://slolusare96.github.io/Acciojob_Weekly_Contest_F2_25.02.2023/
 # Project Overview
 - Task: Create a UI for an editable table in Figma. The table should initially have 0 rows, but when the user clicks on the "create a new row" button, a new row should be appended to the table.
 - Each cell of the new row should be an input field of type text, except for the ID, which should be assigned automatically and cannot be changed.
