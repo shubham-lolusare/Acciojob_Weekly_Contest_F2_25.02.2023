@@ -90,6 +90,7 @@ addRow.onclick = () => {
 
 function saveButton(event) {
   event.preventDefault();
+  alert("Check Console!");
   if (tableData[event.target.id - 1] == undefined) {
     let obj = {
       id: "",
